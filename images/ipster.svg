@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.0945"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ipster.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5534"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0"
+         id="stop5536" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:0;"
+         offset="1"
+         id="stop5538" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10279"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path10281"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9531"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9533"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9353"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9355"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9187"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9189"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8849"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8851"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8701"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path8703"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8411"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8413"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8401"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         transform="scale(-0.8,-0.8)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8403"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8137"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 -5,5 5,5 5,-5 -5,-5 Z"
+         id="path8139"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8019"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 -5,5 5,5 5,-5 -5,-5 Z"
+         id="path8021"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8009"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="SquareL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M -5,-5 -5,5 5,5 5,-5 -5,-5 Z"
+         id="path8011"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7781"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7783"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7681"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7683"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7671"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7673"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7477"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7479"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7395"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7397"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7385"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path7387"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7229"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path7231"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7165"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path7167"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7155"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path7157"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7035"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path7037"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6989"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6991"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6979"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6981"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6895"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6897"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6867"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6869"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8411-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.8,-0.8)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8413-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8411-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.8,-0.8)"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path8413-6" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="773.13519"
+     inkscape:cy="358.87997"
+     inkscape:document-units="px"
+     inkscape:current-layer="g8219"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="981"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     units="cm"
+     inkscape:snap-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3370"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3372"><rect
+           id="rect3374"
+           width="1565.7365"
+           height="377.79706"
+           x="1060.6602"
+           y="-614.38947" /></flowRegion><flowPara
+         id="flowPara3376" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3378"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3380"><rect
+           id="rect3382"
+           width="1792.0106"
+           height="383.85797"
+           x="779.83777"
+           y="-723.48596" /></flowRegion><flowPara
+         id="flowPara3384" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1868.5714"
+       y="-1073.3521"
+       id="text3430"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3432"
+         x="1868.5714"
+         y="-1073.3521" /></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.02030516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d=""
+       id="path8143"
+       inkscape:connector-curvature="0"
+       transform="translate(0,-435.82677)" />
+    <g
+       id="g8219"
+       transform="translate(-4.9949347e-6,549.92712)">
+      <g
+         id="g5830"
+         transform="translate(123.57053,3.35887)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5724"
+           d="M 185.81323,-9.5471289 A 36.0036,36.0036 0 0 0 153.18432,11.218501 l -16.18164,34.64648 a 36.0036,36.0036 0 0 0 1.625,33.46485 l -11.19141,23.623039 4.2461,0.004 A 36.0036,36.0036 0 0 0 99.04174,123.7225 l -17.5332,37.54296 a 36.0036,36.0036 0 0 0 32.61719,51.23243 l 469.19527,0 a 36.0036,36.0036 0 0 0 32.5098,-20.53711 l 25.9023,-54.46289 31.8457,0 a 36.0036,36.0036 0 0 0 32.6192,-20.76563 l 17.5137,-37.499999 a 36.0036,36.0036 0 0 0 -32.6192,-51.23437 l -162.5566,0 a 36.0036,36.0036 0 0 0 -35.959,-37.4999999 l -36.0938,0 A 36.0036,36.0036 0 0 0 423.866,11.265461 l -7.8164,16.73243 -48.2325,0 -7.8164,-16.73438 A 36.0036,36.0036 0 0 0 327.39526,-9.5021089 l -141.58203,-0.0449 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#002b36;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:72;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+        <g
+           id="g5726">
+          <g
+             transform="translate(-59.66537,-91.956139)"
+             id="g5100-5">
+            <path
+               d="m 262.12125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4731-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 280.16813,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4733-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 298.215,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4735-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 316.26188,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4737-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 239.1818,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4751-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 298.215,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4753-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 311.3693,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4755-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 239.1818,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4795-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 275.27555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4797-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 207.98063,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4837-2"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 221.13492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4839-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 257.22867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4841-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 185.04117,240.9004 3.23731,0 -11.51367,24.65332 -3.2373,0 11.51366,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4875-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 207.98063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4877-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 226.0275,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4879-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 244.07438,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4881-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 257.22867,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4883-9"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(-59.66537,-91.956139)"
+             id="g5079-8">
+            <path
+               d="m 334.30875,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4739-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 352.35563,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4741-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 370.4025,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4743-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 388.44938,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4745-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 352.35563,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4757-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 370.4025,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4759-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 393.32731,128.4004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4761-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 293.32242,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4799-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 329.41617,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4801-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 352.35563,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4803-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 365.50992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4805-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 401.60367,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4807-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 275.27555,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4843-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 316.26188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4845-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 334.30875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4847-2"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 352.35563,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4849-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 370.4025,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4851-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 280.16813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4885-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 293.32242,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4887-6"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(-59.66537,-91.956139)"
+             id="g5058-7">
+            <path
+               d="m 365.50992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4889-6"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 424.54313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4763-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 442.59,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4765-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 460.63688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4767-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 478.68375,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4769-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 496.73063,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4771-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 442.59,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4809-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 460.63688,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4811-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 478.68375,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4813-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 491.83805,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4815-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 383.92301,202.50684 q -1.93359,3.50098 -2.87109,6.78223 -0.9375,3.28125 -0.9375,6.5625 0,3.25195 0.9375,6.5625 0.9375,3.2959 2.87109,6.81152 l -3.33984,0 q -2.32911,-3.38379 -3.45704,-6.66504 -1.12793,-3.2959 -1.12793,-6.70898 0,-3.39844 1.12793,-6.69434 1.14258,-3.31054 3.45704,-6.65039 l 3.33984,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4853-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 406.49625,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4855-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 424.54313,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4857-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 465.1486,202.50684 3.33984,0 q 2.31445,3.33985 3.44238,6.65039 1.14258,3.2959 1.14258,6.69434 0,3.41308 -1.12793,6.70898 -1.12793,3.28125 -3.45703,6.66504 l -3.33984,0 q 1.93359,-3.51562 2.87109,-6.81152 0.9375,-3.31055 0.9375,-6.5625 0,-3.28125 -0.9375,-6.5625 -0.9375,-3.28125 -2.87109,-6.78223 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4859-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 388.44938,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4891-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 406.49625,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4893-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 424.54313,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4895-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 442.59,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4897-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 455.7443,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4899-4"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(-59.66537,-91.956139)"
+             id="g5163-9">
+            <path
+               d="m 568.91813,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4777-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 532.82438,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4747-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 550.87125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4749-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 509.88492,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4773-2"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 545.97867,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4775-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 532.82438,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4817-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 550.87125,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4819-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 564.02555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4821-6"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 509.88492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4861-6"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 532.82438,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4863-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 465.51481,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4901-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 496.73063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4903-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 514.7775,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4905-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 527.9318,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4907-5"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(-59.66537,-91.956139)"
+             id="g5134-9"
+             style="fill:#268bd2;fill-opacity:1">
+            <path
+               d="m 586.965,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4779-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 605.01188,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4781-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 623.05875,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4783-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 605.01188,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4823-2"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 627.93668,165.9004 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4825-2"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 545.97867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4865-3"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 605.01188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4867-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 623.05875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4869-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 636.21305,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4871-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 537.70231,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4909-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 568.91813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4911-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 586.965,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4913-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 605.01188,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4915-9"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 618.16617,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4917-7"
+               inkscape:connector-curvature="0" />
+          </g>
+          <g
+             transform="translate(-59.66537,-91.956139)"
+             id="g5179-6"
+             style="fill:#6c71c4;fill-opacity:1">
+            <path
+               d="m 677.19938,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4785-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 695.24625,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4787-1"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 713.29313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4789-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 731.34,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4791-4"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 749.38688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4793-5"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 654.25992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4827-0"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 695.24625,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4829-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 713.29313,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4831-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 731.34,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4833-7"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 744.4943,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4835-6"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 672.3068,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4873-8"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 641.10563,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4919-2"
+               inkscape:connector-curvature="0" />
+            <path
+               d="m 654.25992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               id="path4921-1"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g5936"
+         transform="translate(179.77317,3.5854)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5200"
+           d="m 129.73225,286.22537 141.58151,0.0457 17.51359,37.50045 94.07312,0 17.51336,-37.5 36.09371,0 -17.5133,37.5 216.029,0 -17.5134,37.5 -54.5888,0 -35.6705,75 -469.193806,-3e-5 17.53299,-37.54205 18.55036,0.0116 36.893316,-77.86994 -17.4815,0 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <g
+           transform="translate(-115.73488,167.81733)"
+           id="g5100">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4731"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 262.12125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4733"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 280.16813,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4735"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 298.215,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4737"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 316.26188,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4751"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 239.1818,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4753"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 298.215,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4755"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 311.3693,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4795"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 239.1818,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4797"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 275.27555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4837"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 207.98063,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4839"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 221.13492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4841"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 257.22867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4875"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 185.04117,240.9004 3.23731,0 -11.51367,24.65332 -3.2373,0 11.51366,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4877"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 207.98063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4879"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 226.0275,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4881"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 244.07438,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4883"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 257.22867,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+        </g>
+        <g
+           transform="translate(-115.73488,167.81733)"
+           id="g5079">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4739"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 334.30875,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4741"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 352.35563,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4743"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 370.4025,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4745"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 388.44938,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4757"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 352.35563,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4759"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 370.4025,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4761"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 393.32731,128.4004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4799"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 293.32242,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4801"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 329.41617,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4803"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 352.35563,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4805"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 365.50992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4807"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 401.60367,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4843"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 275.27555,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4845"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 316.26188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4847"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 334.30875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4849"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 352.35563,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4851"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 370.4025,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4885"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 280.16813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4887"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 293.32242,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+        </g>
+        <g
+           transform="translate(-115.73488,167.81733)"
+           id="g5058">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4889"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 365.50992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4763"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 424.54313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4765"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 442.59,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4767"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 460.63688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4769"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 478.68375,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4771"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 496.73063,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4809"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 442.59,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4811"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 460.63688,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4813"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 478.68375,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4815"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 491.83805,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4853"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 383.92301,202.50684 q -1.93359,3.50098 -2.87109,6.78223 -0.9375,3.28125 -0.9375,6.5625 0,3.25195 0.9375,6.5625 0.9375,3.2959 2.87109,6.81152 l -3.33984,0 q -2.32911,-3.38379 -3.45704,-6.66504 -1.12793,-3.2959 -1.12793,-6.70898 0,-3.39844 1.12793,-6.69434 1.14258,-3.31054 3.45704,-6.65039 l 3.33984,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4855"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 406.49625,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4857"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 424.54313,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4859"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 465.1486,202.50684 3.33984,0 q 2.31445,3.33985 3.44238,6.65039 1.14258,3.2959 1.14258,6.69434 0,3.41308 -1.12793,6.70898 -1.12793,3.28125 -3.45703,6.66504 l -3.33984,0 q 1.93359,-3.51562 2.87109,-6.81152 0.9375,-3.31055 0.9375,-6.5625 0,-3.28125 -0.9375,-6.5625 -0.9375,-3.28125 -2.87109,-6.78223 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4891"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 388.44938,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4893"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 406.49625,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4895"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 424.54313,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4897"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 442.59,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4899"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 455.7443,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        </g>
+        <g
+           transform="translate(-115.73488,167.81733)"
+           id="g5163">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4777"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 568.91813,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4747"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 532.82438,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4749"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 550.87125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4773"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 509.88492,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4775"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 545.97867,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4817"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 532.82438,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4819"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 550.87125,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4821"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 564.02555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4861"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 509.88492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4863"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 532.82438,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4901"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 465.51481,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4903"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 496.73063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4905"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 514.7775,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4907"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 527.9318,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        </g>
+        <g
+           transform="translate(-115.73488,167.81733)"
+           style="fill:#268bd2;fill-opacity:1"
+           id="g5134">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4779"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 586.965,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4781"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 605.01188,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4783"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 623.05875,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4823"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 605.01188,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4825"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 627.93668,165.9004 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4865"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 545.97867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4867"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 605.01188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4869"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 623.05875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4871"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 636.21305,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4909"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 537.70231,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4911"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 568.91813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4913"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 586.965,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4915"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 605.01188,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4917"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 618.16617,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+        </g>
+        <g
+           transform="translate(-115.73488,167.81733)"
+           style="fill:#6c71c4;fill-opacity:1"
+           id="g5179">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4785"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 677.19938,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4787"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 695.24625,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4789"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 713.29313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4791"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 731.34,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4793"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 749.38688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4827"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 654.25992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4829"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 695.24625,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4831"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 713.29313,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4833"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 731.34,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4835"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 744.4943,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4873"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 672.3068,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4919"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 641.10563,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4921"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 654.25992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+        </g>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3414-2"
+         y="-235.82675"
+         x="237.42378"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#002b36;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#002b36;fill-opacity:1"
+           id="tspan3426-0"
+           y="-235.82675"
+           x="237.42378"
+           sodipodi:role="line">    ________       __</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#002b36;fill-opacity:1"
+           y="-198.32675"
+           x="237.42378"
+           sodipodi:role="line"
+           id="tspan4683">   /  _/ __ \_____/ /____  _____</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#002b36;fill-opacity:1"
+           y="-160.82675"
+           x="237.42378"
+           sodipodi:role="line"
+           id="tspan4685">   / // /_/ / ___/ __/ _ \/ ___/</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#002b36;fill-opacity:1"
+           y="-123.32675"
+           x="237.42378"
+           sodipodi:role="line"
+           id="tspan4687"> _/ // ____(__  ) /_/  __/ /</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#002b36;fill-opacity:1"
+           y="-85.826752"
+           x="237.42378"
+           sodipodi:role="line"
+           id="tspan4691">/___/_/   /____/\__/\___/_/</tspan><tspan
+           id="tspan3428-1"
+           y="-48.326752"
+           x="237.42378"
+           sodipodi:role="line" /></text>
+    </g>
+  </g>
+</svg>
