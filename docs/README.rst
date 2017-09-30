@@ -2,19 +2,30 @@
 IPster
 ======
 
-| A hipster theme for the IPython REPL.
-| The prompt is based on Agnoster, therefore IPster (IPython + Agnoster).
+A hipster theme for the IPython REPL. |br|
+The prompt is based on Agnoster, therefore IPster (IPython + Agnoster).
+
+.. image:: ../images/ipster-logo.png
 
 IPster is optimized for people who use:
 
 - Solarized colorscheme;
 - Unicode-compatible fonts.
 
-| For GNOME GNU/Linux users, I highly recommend GNOME Terminal + Solarized dark + DejaVu Sans Mono Nerd.
-| For KDE GNU/Linux users, I highly recommend Konsole + `Solarized Dark <https://github.com/phiggins/konsole-colors-solarized>`_ + DejaVu Sans Mono Nerd.
-| For Mac users, I highly recommend iTerm 2 + Solarized Dark.
+For GNOME GNU/Linux users, I highly recommend GNOME Terminal +
+Solarized dark + DejaVu Sans Mono Nerd. |br|
+For KDE GNU/Linux users, I highly recommend Konsole +
+`Solarized Dark <https://github.com/phiggins/konsole-colors-solarized>`_ +
+DejaVu Sans Mono Nerd. |br|
+For Mac users, I highly recommend iTerm 2 + Solarized Dark.
 
     With some extra hassle this theme works on Windows too.
+
+Screenshot
+----------
+
+.. image:: ../images/ipster-terminal.png
+
 
 Installation
 ------------
@@ -128,3 +139,7 @@ TODO
 .. _`Powerline fonts`: https://github.com/powerline/fonts
 .. _`IPython shortcuts`: http://ipython.readthedocs.io/en/stable/config/shortcuts/#multi-filtered-shortcuts
 .. _`IPython overrides`: http://powerline.readthedocs.io/en/master/configuration/local.html#ipython-overrides
+
+.. |br| raw:: html
+
+    <br />

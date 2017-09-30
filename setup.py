@@ -2,10 +2,15 @@
 from setuptools import setup
 
 
+def readme():
+    with open('README.rst') as f:
+        return f.read()
+
 setup(
     name='ipython-agnoster',
-    version='0.0.3',
+    version='0.0.8',
     description='A hipster theme for the IPython REPL',
+    long_description=readme(),
     author='Pierpaolo Rasicci',
     url='https://github.com/i5ar/ipster',
     license='MIT',
@@ -29,5 +34,6 @@ setup(
         'Programming Language :: Python',
         'Topic :: Text Editors',
     ],
-    zip_safe=False
+    zip_safe=False,
+    test_suite='tests',
 )

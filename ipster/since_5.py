@@ -24,9 +24,7 @@ c.TerminalInteractiveShell.true_color = True
 ## Set the color scheme (NoColor, Neutral, Linux, or LightBG).
 c.InteractiveShell.colors = 'Linux'
 
-
 from pygments.token import Token
-
 
 # Define prompt colors
 # TODO: Define Solarized colorscheme
@@ -45,6 +43,33 @@ style_overrides_linux = {
 # TODO: Override NoColor, Neutral and LightBG prompt colors
 c.TerminalInteractiveShell.highlighting_style_overrides = style_overrides_linux
 '''
+
+
+class IPsterStyle(object):
+    """Override prompt colors.
+
+    Configuration example::
+
+        from ipster.since_5 import IPsterStyle
+        ipstyle = IPsterStyle()
+        ipstyle_linux = ipstyle.overrides_linux()
+        c.TerminalInteractiveShell.highlighting_style_overrides = ipstyle_linux
+
+    """
+
+    style_overrides_linux = {
+        Token.IPsterPromptVirtualenv: 'bg:#859900 #002b36',
+        Token.IPsterPowerlinePromptVirtualenv: 'bg:#073642 #859900',
+        Token.Prompt: 'bg:#073642 #657b83',
+        Token.PromptNum: 'bg:#073642 #859900 bold',
+        Token.OutPrompt: 'bg:#073642 #657b83',
+        Token.OutPromptNum: 'bg:#073642 #dc322f bold',
+        Token.IPsterPowerlinePrompt: '#073642',
+        Token.IPsterPromptSpace: '#839496',
+    }
+
+    def overrides_linux(self):
+        return self.style_overrides_linux
 
 
 class IPsterPrompts(Prompts):

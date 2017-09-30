@@ -1,0 +1,8 @@
+{
+  "name": "Solarized dark for IPython",
+  "groups": {
+    "information:additional":     { "fg": "solarized:base0", "bg": "solarized:base02", "attrs": []},
+    "information:highlighted":    { "fg": "solarized:green", "bg": "solarized:base02", "attrs": ["bold"]},
+    "virtualenv":                 { "fg": "solarized:base02", "bg": "solarized:green", "attrs": []}
+  }
+}
