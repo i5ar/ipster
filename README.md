@@ -10,14 +10,12 @@ IPster is optimized for people who use:
 - Solarized colorscheme;
 - Unicode-compatible fonts.
 
-For GNOME GNU/Linux users, I highly recommend GNOME Terminal +
-Solarized dark + DejaVu Sans Mono Nerd.  
-For KDE GNU/Linux users, I highly recommend Konsole +
-[Solarized Dark](https://github.com/phiggins/konsole-colors-solarized) +
-DejaVu Sans Mono Nerd.  
+For GNOME GNU/Linux users, I highly recommend GNOME Terminal + Solarized dark + DejaVu Sans Mono Nerd.  
+For KDE GNU/Linux users, I highly recommend Konsole + [Solarized Dark](https://github.com/phiggins/konsole-colors-solarized) + DejaVu Sans Mono Nerd.  
 For Mac users, I highly recommend iTerm 2 + Solarized Dark.
 
 > With some extra hassle this theme works on Windows too.
+
 
 ## Screenshot
 
@@ -39,7 +37,7 @@ to the extensions directory (deprecated):
     cp -r ipster "$HOME/.ipython/extensions"
 
 
-# Configuration
+## Configuration
 
 Once the module is installed you need to configure it.
 
@@ -117,6 +115,7 @@ Suggestions and pull requests are welcome.
 
 If you already use Powerline for IPython, install the IPster theme under
 the ``extras`` directory, please.
+
 
 ## TODO
 
