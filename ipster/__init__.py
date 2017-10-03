@@ -6,6 +6,7 @@
 
 
 """IPster.
+
 A hipster theme for the IPython REPL.
 """
 

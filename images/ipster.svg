@@ -6,24 +6,24 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   width="14in"
-   height="8.5in"
-   viewBox="0 0 2979.9211 0"
+   version="1.1"
    id="svg2"
-   version="1.1">
+   viewBox="0 0 2979.9211 0"
+   height="17in"
+   width="14in">
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient5534"
-       osb:paint="gradient">
+       osb:paint="gradient"
+       id="linearGradient5534">
       <stop
-         style="stop-color:#ffcc00;stop-opacity:1;"
+         id="stop5536"
          offset="0"
-         id="stop5536" />
+         style="stop-color:#ffcc00;stop-opacity:1;" />
       <stop
-         style="stop-color:#ffcc00;stop-opacity:0;"
+         id="stop5538"
          offset="1"
-         id="stop5538" />
+         style="stop-color:#ffcc00;stop-opacity:0;" />
     </linearGradient>
   </defs>
   <metadata
@@ -39,665 +39,1297 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-387.36216)"
-     id="g7758">
+     id="g7758"
+     transform="translate(0,-387.36216)">
     <path
-       id="path5724-2"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#002b36;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:72;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 129.4404,909.00133 a 36.0036,36.0036 0 0 0 -32.6289,20.76563 l -16.1816,34.64648 a 36.0036,36.0036 0 0 0 1.625,33.46485 l -11.1914,23.62301 4.2461,0 a 36.0036,36.0036 0 0 0 -32.6407,20.7657 l -17.5332,37.5429 a 36.0036,36.0036 0 0 0 32.6172,51.2324 l 469.1953,0 a 36.0036,36.0036 0 0 0 32.5098,-20.5371 l 25.9023,-54.4629 31.8457,0 a 36.0036,36.0036 0 0 0 32.6192,-20.7656 l 17.5137,-37.49998 a 36.0036,36.0036 0 0 0 -32.6192,-51.23437 l -162.5566,0 a 36.0036,36.0036 0 0 0 -35.959,-37.5 l -36.0938,0 a 36.0036,36.0036 0 0 0 -32.6171,20.76757 l -7.8164,16.73243 -48.2325,0 -7.8164,-16.73438 a 36.0036,36.0036 0 0 0 -32.6054,-20.76562 l -141.5821,-0.0449 z"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#002b36;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:72;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       id="path5724-2" />
     <g
-       id="g5100-5-0"
+       style="fill:#cb4b16;fill-opacity:1"
        transform="translate(-116.0382,826.59232)"
-       style="fill:#cb4b16;fill-opacity:1">
+       id="g5100-5-0">
       <path
-         id="path4731-7-0"
+         d="m 262.12125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 262.12125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4731-7-0" />
       <path
-         id="path4733-0-7"
+         d="m 280.16813,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 280.16813,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4733-0-7" />
       <path
-         id="path4735-9-2"
+         d="m 298.215,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 298.215,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4735-9-2" />
       <path
-         id="path4737-1-9"
+         d="m 316.26188,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 316.26188,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4737-1-9" />
       <path
-         id="path4751-1-9"
+         d="m 239.1818,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 239.1818,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4751-1-9" />
       <path
-         id="path4753-5-6"
+         d="m 298.215,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 298.215,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4753-5-6" />
       <path
-         id="path4755-9-0"
+         d="m 311.3693,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 311.3693,128.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4755-9-0" />
       <path
-         id="path4795-3-6"
+         d="m 239.1818,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 239.1818,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4795-3-6" />
       <path
-         id="path4797-1-5"
+         d="m 275.27555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 275.27555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4797-1-5" />
       <path
-         id="path4837-2-8"
+         d="m 207.98063,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 207.98063,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4837-2-8" />
       <path
-         id="path4839-8-6"
+         d="m 221.13492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 221.13492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4839-8-6" />
       <path
-         id="path4841-3-8"
+         d="m 257.22867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 257.22867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4841-3-8" />
       <path
-         id="path4875-0-3"
+         d="m 185.04117,240.9004 3.23731,0 -11.51367,24.65332 -3.2373,0 11.51366,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 185.04117,240.9004 3.23731,0 -11.51367,24.65332 -3.2373,0 11.51366,-24.65332 z" />
+         id="path4875-0-3" />
       <path
-         id="path4877-9-0"
+         d="m 207.98063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 207.98063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4877-9-0" />
       <path
-         id="path4879-0-9"
+         d="m 226.0275,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 226.0275,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4879-0-9" />
       <path
-         id="path4881-3-9"
+         d="m 244.07438,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 244.07438,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4881-3-9" />
       <path
-         id="path4883-9-7"
+         d="m 257.22867,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 257.22867,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4883-9-7" />
     </g>
     <g
-       id="g5079-8-5"
+       style="fill:#b58900;fill-opacity:1"
        transform="translate(-116.0382,826.59232)"
-       style="fill:#b58900;fill-opacity:1">
+       id="g5079-8-5">
       <path
-         id="path4739-4-2"
+         d="m 334.30875,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 334.30875,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4739-4-2" />
       <path
-         id="path4741-9-9"
+         d="m 352.35563,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 352.35563,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4741-9-9" />
       <path
-         id="path4743-0-6"
+         d="m 370.4025,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 370.4025,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4743-0-6" />
       <path
-         id="path4745-0-8"
+         d="m 388.44938,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 388.44938,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4745-0-8" />
       <path
-         id="path4757-3-0"
+         d="m 352.35563,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 352.35563,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4757-3-0" />
       <path
-         id="path4759-7-8"
+         d="m 370.4025,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 370.4025,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4759-7-8" />
       <path
-         id="path4761-4-2"
+         d="m 393.32731,128.4004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 393.32731,128.4004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z" />
+         id="path4761-4-2" />
       <path
-         id="path4799-3-4"
+         d="m 293.32242,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 293.32242,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4799-3-4" />
       <path
-         id="path4801-5-4"
+         d="m 329.41617,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 329.41617,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4801-5-4" />
       <path
-         id="path4803-3-5"
+         d="m 352.35563,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 352.35563,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4803-3-5" />
       <path
-         id="path4805-7-6"
+         d="m 365.50992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 365.50992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4805-7-6" />
       <path
-         id="path4807-0-7"
+         d="m 401.60367,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 401.60367,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4807-0-7" />
       <path
-         id="path4843-8-5"
+         d="m 275.27555,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 275.27555,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4843-8-5" />
       <path
-         id="path4845-5-7"
+         d="m 316.26188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 316.26188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4845-5-7" />
       <path
-         id="path4847-2-6"
+         d="m 334.30875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 334.30875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4847-2-6" />
       <path
-         id="path4849-9-0"
+         d="m 352.35563,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 352.35563,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4849-9-0" />
       <path
-         id="path4851-8-8"
+         d="m 370.4025,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 370.4025,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4851-8-8" />
       <path
-         id="path4885-3-5"
+         d="m 280.16813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 280.16813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4885-3-5" />
       <path
-         id="path4887-6-6"
+         d="m 293.32242,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 293.32242,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4887-6-6" />
     </g>
     <g
-       id="g5058-7-1"
+       style="fill:#859900;fill-opacity:1"
        transform="translate(-116.0382,826.59232)"
-       style="fill:#859900;fill-opacity:1">
+       id="g5058-7-1">
       <path
-         id="path4889-6-1"
+         d="m 365.50992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 365.50992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4889-6-1" />
       <path
-         id="path4763-9-4"
+         d="m 424.54313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 424.54313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4763-9-4" />
       <path
-         id="path4765-9-1"
+         d="m 442.59,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 442.59,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4765-9-1" />
       <path
-         id="path4767-4-7"
+         d="m 460.63688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 460.63688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4767-4-7" />
       <path
-         id="path4769-3-2"
+         d="m 478.68375,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 478.68375,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4769-3-2" />
       <path
-         id="path4771-0-5"
+         d="m 496.73063,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 496.73063,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4771-0-5" />
       <path
-         id="path4809-4-0"
+         d="m 442.59,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 442.59,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4809-4-0" />
       <path
-         id="path4811-5-3"
+         d="m 460.63688,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 460.63688,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4811-5-3" />
       <path
-         id="path4813-5-6"
+         d="m 478.68375,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 478.68375,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4813-5-6" />
       <path
-         id="path4815-5-7"
+         d="m 491.83805,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 491.83805,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4815-5-7" />
       <path
-         id="path4853-5-0"
+         d="m 383.92301,202.50684 q -1.93359,3.50098 -2.87109,6.78223 -0.9375,3.28125 -0.9375,6.5625 0,3.25195 0.9375,6.5625 0.9375,3.2959 2.87109,6.81152 l -3.33984,0 q -2.32911,-3.38379 -3.45704,-6.66504 -1.12793,-3.2959 -1.12793,-6.70898 0,-3.39844 1.12793,-6.69434 1.14258,-3.31054 3.45704,-6.65039 l 3.33984,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 383.92301,202.50684 q -1.93359,3.50098 -2.87109,6.78223 -0.9375,3.28125 -0.9375,6.5625 0,3.25195 0.9375,6.5625 0.9375,3.2959 2.87109,6.81152 l -3.33984,0 q -2.32911,-3.38379 -3.45704,-6.66504 -1.12793,-3.2959 -1.12793,-6.70898 0,-3.39844 1.12793,-6.69434 1.14258,-3.31054 3.45704,-6.65039 l 3.33984,0 z" />
+         id="path4853-5-0" />
       <path
-         id="path4855-1-0"
+         d="m 406.49625,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 406.49625,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4855-1-0" />
       <path
-         id="path4857-7-8"
+         d="m 424.54313,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 424.54313,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4857-7-8" />
       <path
-         id="path4859-5-9"
+         d="m 465.1486,202.50684 3.33984,0 q 2.31445,3.33985 3.44238,6.65039 1.14258,3.2959 1.14258,6.69434 0,3.41308 -1.12793,6.70898 -1.12793,3.28125 -3.45703,6.66504 l -3.33984,0 q 1.93359,-3.51562 2.87109,-6.81152 0.9375,-3.31055 0.9375,-6.5625 0,-3.28125 -0.9375,-6.5625 -0.9375,-3.28125 -2.87109,-6.78223 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 465.1486,202.50684 3.33984,0 q 2.31445,3.33985 3.44238,6.65039 1.14258,3.2959 1.14258,6.69434 0,3.41308 -1.12793,6.70898 -1.12793,3.28125 -3.45703,6.66504 l -3.33984,0 q 1.93359,-3.51562 2.87109,-6.81152 0.9375,-3.31055 0.9375,-6.5625 0,-3.28125 -0.9375,-6.5625 -0.9375,-3.28125 -2.87109,-6.78223 z" />
+         id="path4859-5-9" />
       <path
-         id="path4891-1-1"
+         d="m 388.44938,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 388.44938,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4891-1-1" />
       <path
-         id="path4893-0-8"
+         d="m 406.49625,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 406.49625,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4893-0-8" />
       <path
-         id="path4895-4-7"
+         d="m 424.54313,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 424.54313,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4895-4-7" />
       <path
-         id="path4897-8-3"
+         d="m 442.59,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 442.59,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4897-8-3" />
       <path
-         id="path4899-4-5"
+         d="m 455.7443,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 455.7443,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4899-4-5" />
     </g>
     <g
-       id="g5163-9-4"
+       style="fill:#268bd2;fill-opacity:1"
        transform="translate(-116.0382,826.59232)"
-       style="fill:#268bd2;fill-opacity:1">
+       id="g5163-9-4">
       <path
-         id="path4777-1-1"
+         d="m 568.91813,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 568.91813,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4777-1-1" />
       <path
-         id="path4747-1-3"
+         d="m 532.82438,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 532.82438,117.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4747-1-3" />
       <path
-         id="path4749-1-3"
+         d="m 550.87125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 550.87125,117.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4749-1-3" />
       <path
-         id="path4773-2-8"
+         d="m 509.88492,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 509.88492,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4773-2-8" />
       <path
-         id="path4775-8-2"
+         d="m 545.97867,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 545.97867,128.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4775-8-2" />
       <path
-         id="path4817-3-0"
+         d="m 532.82438,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 532.82438,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4817-3-0" />
       <path
-         id="path4819-3-0"
+         d="m 550.87125,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 550.87125,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4819-3-0" />
       <path
-         id="path4821-6-1"
+         d="m 564.02555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 564.02555,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4821-6-1" />
       <path
-         id="path4861-6-5"
+         d="m 509.88492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 509.88492,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4861-6-5" />
       <path
-         id="path4863-0-7"
+         d="m 532.82438,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 532.82438,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4863-0-7" />
       <path
-         id="path4901-3-4"
+         d="m 465.51481,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 465.51481,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z" />
+         id="path4901-3-4" />
       <path
-         id="path4903-3-9"
+         d="m 496.73063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 496.73063,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4903-3-9" />
       <path
-         id="path4905-9-3"
+         d="m 514.7775,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 514.7775,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4905-9-3" />
       <path
-         id="path4907-5-5"
+         d="m 527.9318,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 527.9318,240.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4907-5-5" />
     </g>
     <g
-       style="fill:#6c71c4;fill-opacity:1"
+       transform="translate(-116.0382,826.59232)"
        id="g5134-9-8"
-       transform="translate(-116.0382,826.59232)">
+       style="fill:#6c71c4;fill-opacity:1">
       <path
-         id="path4779-4-7"
+         d="m 586.965,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 586.965,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4779-4-7" />
       <path
-         id="path4781-7-0"
+         d="m 605.01188,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 605.01188,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4781-7-0" />
       <path
-         id="path4783-5-0"
+         d="m 623.05875,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 623.05875,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4783-5-0" />
       <path
-         id="path4823-2-2"
+         d="m 605.01188,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 605.01188,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4823-2-2" />
       <path
-         id="path4825-2-8"
+         d="m 627.93668,165.9004 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 627.93668,165.9004 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z" />
+         id="path4825-2-8" />
       <path
-         id="path4865-3-0"
+         d="m 545.97867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 545.97867,203.4004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4865-3-0" />
       <path
-         id="path4867-7-2"
+         d="m 605.01188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 605.01188,229.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4867-7-2" />
       <path
-         id="path4869-4-9"
+         d="m 623.05875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 623.05875,229.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4869-4-9" />
       <path
-         id="path4871-0-8"
+         d="m 636.21305,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 636.21305,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4871-0-8" />
       <path
-         id="path4909-5-1"
+         d="m 537.70231,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 537.70231,240.9004 11.51367,24.65332 -3.2666,0 -11.51368,-24.65332 3.26661,0 z" />
+         id="path4909-5-1" />
       <path
-         id="path4911-7-0"
+         d="m 568.91813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 568.91813,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4911-7-0" />
       <path
-         id="path4913-0-9"
+         d="m 586.965,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 586.965,267.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4913-0-9" />
       <path
-         id="path4915-9-1"
+         d="m 605.01188,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 605.01188,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4915-9-1" />
       <path
-         id="path4917-7-5"
+         d="m 618.16617,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 618.16617,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4917-7-5" />
     </g>
     <g
-       style="fill:#d33682;fill-opacity:1"
+       transform="translate(-116.0382,826.59232)"
        id="g5179-6-4"
-       transform="translate(-116.0382,826.59232)">
+       style="fill:#d33682;fill-opacity:1">
       <path
-         id="path4785-1-5"
+         d="m 677.19938,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 677.19938,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4785-1-5" />
       <path
-         id="path4787-1-8"
+         d="m 695.24625,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 695.24625,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4787-1-8" />
       <path
-         id="path4789-0-7"
+         d="m 713.29313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 713.29313,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4789-0-7" />
       <path
-         id="path4791-4-0"
+         d="m 731.34,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 731.34,154.56251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4791-4-0" />
       <path
-         id="path4793-5-7"
+         d="m 749.38688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 749.38688,154.56251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4793-5-7" />
       <path
-         id="path4827-0-2"
+         d="m 654.25992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 654.25992,165.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4827-0-2" />
       <path
-         id="path4829-8-0"
+         d="m 695.24625,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 695.24625,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4829-8-0" />
       <path
-         id="path4831-8-7"
+         d="m 713.29313,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 713.29313,192.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4831-8-7" />
       <path
-         id="path4833-7-3"
+         d="m 731.34,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 731.34,192.06251 0,2.7832 -18.06152,0 0,-2.7832 18.06152,0 z" />
+         id="path4833-7-3" />
       <path
-         id="path4835-6-8"
+         d="m 744.4943,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 744.4943,165.9004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4835-6-8" />
       <path
-         id="path4873-8-6"
+         d="m 672.3068,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 672.3068,203.4004 3.2373,0 -11.51367,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+         id="path4873-8-6" />
       <path
-         id="path4919-2-7"
+         d="m 641.10563,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 641.10563,267.06251 0,2.7832 -18.06153,0 0,-2.7832 18.06153,0 z" />
+         id="path4919-2-7" />
       <path
-         id="path4921-1-9"
+         d="m 654.25992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';letter-spacing:0px;word-spacing:0px;baseline-shift:baseline;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 654.25992,240.9004 3.23731,0 -11.51367,24.65332 -3.23731,0 11.51367,-24.65332 z" />
+         id="path4921-1-9" />
     </g>
   </g>
   <flowRoot
-     transform="translate(0,-387.36216)"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
      id="flowRoot3370"
-     xml:space="preserve"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(0,377.63784)"><flowRegion
        id="flowRegion3372"><rect
-         y="-614.38947"
-         x="1060.6602"
-         height="377.79706"
+         id="rect3374"
          width="1565.7365"
-         id="rect3374" /></flowRegion><flowPara
+         height="377.79706"
+         x="1060.6602"
+         y="-614.38947" /></flowRegion><flowPara
        id="flowPara3376" /></flowRoot>  <flowRoot
-     transform="translate(0,-387.36216)"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
      id="flowRoot3378"
-     xml:space="preserve"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(0,377.63784)"><flowRegion
        id="flowRegion3380"><rect
-         y="-723.48596"
-         x="779.83777"
-         height="383.85797"
+         id="rect3382"
          width="1792.0106"
-         id="rect3382" /></flowRegion><flowPara
+         height="383.85797"
+         x="779.83777"
+         y="-723.48596" /></flowRegion><flowPara
        id="flowPara3384" /></flowRoot>  <text
-     id="text3430"
-     y="-1460.7142"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="1868.5714"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       y="-1460.7142"
+     y="-695.71423"
+     id="text3430"><tspan
+       id="tspan3432"
        x="1868.5714"
-       id="tspan3432" /></text>
+       y="-695.71423" /></text>
   <path
-     id="path8143"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.02030516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      d=""
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.02030516;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+     id="path8143" />
   <flowRoot
-     transform="translate(0,-79.09444)"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"
      id="flowRoot4914"
-     xml:space="preserve"><flowRegion
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(0,685.90556)"><flowRegion
        id="flowRegion4916"><rect
-         y="455.19086"
-         x="1743.5233"
-         height="121.21831"
+         id="rect4918"
          width="4.0406103"
-         id="rect4918" /></flowRegion><flowPara
+         height="121.21831"
+         x="1743.5233"
+         y="455.19086" /></flowRegion><flowPara
        id="flowPara4920" /></flowRoot>  <text
-     id="text3414-2"
-     y="552.00006"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="662.48535"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+     y="552"
+     id="text3414-2"><tspan
+       x="662.48535"
+       y="552"
        id="tspan3426-0"
-       y="552.00006"
-       x="662.48535">    ________       __</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="589.50006"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1">    ________       __</tspan><tspan
+       id="tspan4683"
        x="662.48535"
-       id="tspan4683">   /  _/ __ \_____/ /____  _____</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       y="589.5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1">   /  _/ __ \_____/ /____  _____</tspan><tspan
+       id="tspan4685"
+       x="662.48535"
        y="627"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1">   / // /_/ / ___/ __/ _ \/ ___/</tspan><tspan
+       id="tspan4687"
        x="662.48535"
-       id="tspan4685">   / // /_/ / ___/ __/ _ \/ ___/</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
        y="664.50012"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"> _/ // ____(__  ) /_/  __/ /</tspan><tspan
        x="662.48535"
-       id="tspan4687"> _/ // ____(__  ) /_/  __/ /</tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       id="tspan3428-1"
        y="702"
-       x="662.48535">/___/_/   /____/\__/\___/_/</tspan></text>
+       id="tspan3428-1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1">/___/_/   /____/\__/\___/_/</tspan></text>
   <text
-     id="text3414-2-5"
-     y="19.999992"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="427.87598"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       id="tspan4949"
+     y="20"
+     id="text3414-2-5"><tspan
+       x="427.87598"
+       y="20"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="19.999992"
-       x="427.87598">                                __</tspan><tspan
-       id="tspan5133"
+       id="tspan4949">                                __</tspan><tspan
+       x="427.87598"
+       y="57.5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="57.499992"
-       x="427.87598">  ____  ____  ____  ____  _____/ /____  _____</tspan><tspan
-       id="tspan4951"
+       id="tspan5133">  ____  ____  ____  ____  _____/ /____  _____</tspan><tspan
+       x="427.87598"
+       y="95"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="94.999992"
-       x="427.87598"> / __ `/ __ `/ __ \/ __ \/ ___/ __/ _ \/ ___/</tspan><tspan
-       id="tspan4953"
+       id="tspan4951"> / __ `/ __ `/ __ \/ __ \/ ___/ __/ _ \/ ___/</tspan><tspan
+       x="427.87598"
+       y="132.5"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="132.50002"
-       x="427.87598">/ /_/ / /_/ / / / / /_/ (__  ) /_/  __/ /    </tspan><tspan
-       id="tspan4955"
+       id="tspan4953">/ /_/ / /_/ / / / / /_/ (__  ) /_/  __/ /    </tspan><tspan
+       x="427.87598"
+       y="170"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="170.00002"
-       x="427.87598">\__,_/\__, /_/ /_/\____/____/\__/\___/_/     </tspan><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       id="tspan4955">\__,_/\__, /_/ /_/\____/____/\__/\___/_/     </tspan><tspan
+       x="427.87598"
+       y="207.5"
        id="tspan3428-1-3"
-       y="207.50002"
-       x="427.87598">     /____/                                  </tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1">     /____/                                  </tspan></text>
   <text
-     id="text3414-2-5-2"
-     y="286.00003"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="626.3916"
+     y="286"
+     id="text3414-2-5-2"><tspan
+       x="626.3916"
+       y="286"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       id="tspan4902">    __               __           </tspan><tspan
+       x="626.3916"
+       y="323.5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       id="tspan4904">   / /_  ____  _____/ /____  _____</tspan><tspan
+       x="626.3916"
+       y="361"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       id="tspan4906">  / __ \/ __ `/ ___/ __/ _ \/ ___/</tspan><tspan
+       x="626.3916"
+       y="398.5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       id="tspan4908"> / /_/ / /_/ (__  ) /_/  __/ /    </tspan><tspan
+       x="626.3916"
+       y="436"
+       id="tspan3428-1-3-7"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1">/_.___/\__,_/____/\__/\___/_/     </tspan></text>
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#002b36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576"
+     width="30"
+     height="30"
+     x="0"
+     y="0" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0"
+     width="30"
+     height="30"
+     x="0"
+     y="30" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#586e75;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-1"
+     width="30"
+     height="30"
+     x="0"
+     y="60" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#657b83;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1"
+     width="30"
+     height="30"
+     x="0"
+     y="90" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-1-8"
+     width="30"
+     height="30"
+     x="0"
+     y="120" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#93a1a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0"
+     width="30"
+     height="30"
+     x="0"
+     y="149.99994" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eee8d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-1-8-2"
+     width="30"
+     height="30"
+     x="0"
+     y="179.99994" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0-9"
+     width="30"
+     height="30"
+     x="0"
+     y="209.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-1-8-3"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="239.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0-1"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="269.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-1-8-2-0"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="299.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d33682;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0-9-7"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="329.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0-1-0"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="359.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-1-8-2-0-0"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="389.99988" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0-9-7-8"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="419.99976" />
+  <rect
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#859900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     id="rect5576-0-1-0-9-7-8-3"
+     width="30"
+     height="30"
+     x="1.9073486e-06"
+     y="449.99976" />
+  <g
+     transform="translate(-1.173514,1238.7892)"
+     id="g7766">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#002b36;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:72;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 220.91939,11.7108 a 36.0036,36.0036 0 0 0 -32.61915,20.7676 l -7.81445,16.7324 -85.972652,0 A 36.0036,36.0036 0 0 0 62.001419,69.7499 l -37.33789,78.5078 a 36.0036,36.0036 0 0 0 -0.109375,30.6953 l 15.875,33.9922 a 36.0036,36.0036 0 0 0 32.61914,20.7656 l 383.210936,0 a 36.0036,36.0036 0 0 0 35.95703,37.5 l 89.93359,0 a 36.0036,36.0036 0 0 0 32.50977,-20.5371 l 8.06836,-16.9629 338.50391,0 a 36.0036,36.0036 0 0 0 32.50976,-20.5371 l 33.95705,-71.3984 a 36.0036,36.0036 0 0 0 0.1093,-30.6954 L 1008.6127,69.9784 A 36.0036,36.0036 0 0 0 995.97212,55.3182 36.0036,36.0036 0 0 0 960.81978,11.7108 l -36.04688,0 a 36.0036,36.0036 0 0 0 -32.61719,20.7676 l -7.81445,16.7324 -591.29687,0 a 36.0036,36.0036 0 0 0 -35.95899,-37.5 l -36.16601,0 z"
+       id="path8869-8" />
+    <g
+       id="g6017-8"
+       transform="translate(0,-560)">
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6851-3-9-6-4-3"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#dc322f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6583-0-1-5-2-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 111.93794,830.05969 0,2.78321 -18.061525,0 0,-2.78321 18.061525,0 z" />
+        <path
+           id="path6585-9-9-7-6-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 129.98481,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6587-6-2-4-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 148.03169,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6589-5-8-2-2-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 166.07856,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6643-8-9-2-5-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 88.998486,841.39758 3.237304,0 -11.513672,24.65332 -3.237304,0 11.513672,-24.65332 z" />
+        <path
+           id="path6645-3-9-4-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 129.98481,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6647-7-7-4-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 148.03169,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6649-5-0-8-6-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 170.95649,841.39758 11.51368,24.65332 -3.26661,0 -11.51367,-24.65332 3.2666,0 z" />
+        <path
+           id="path6703-9-4-20-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 70.951611,878.89758 3.237304,0 -11.513672,24.65332 -3.237304,0 11.513672,-24.65332 z" />
+        <path
+           id="path6705-0-5-0-5-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 107.04536,878.89758 3.23731,0 -11.513677,24.65332 -3.237304,0 11.513671,-24.65332 z" />
+        <path
+           id="path6707-7-4-03-3-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 129.98481,905.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6709-5-7-24-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 143.13911,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6711-4-2-93-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 179.23286,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6759-2-8-5-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 62.675243,916.39758 11.513672,24.65332 -3.266601,0 -11.513672,-24.65332 3.266601,0 z" />
+        <path
+           id="path6761-8-8-5-1-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 93.891064,942.55969 0,2.78321 -18.061524,0 0,-2.78321 18.061524,0 z" />
+        <path
+           id="path6763-2-2-2-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 111.93794,942.55969 0,2.78321 -18.061525,0 0,-2.78321 18.061525,0 z" />
+        <path
+           id="path6765-1-7-6-4-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 129.98481,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6767-5-5-2-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 148.03169,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6769-7-2-4-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#dc322f;fill-opacity:1"
+           d="m 161.18599,916.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+      </g>
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6872-0-9-9-8-0"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cb4b16;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6575-8-0-7-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 238.26606,792.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6577-5-6-0-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 256.31294,792.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6591-2-8-6-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 215.32661,803.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6593-9-4-3-5-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 251.42036,803.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6595-1-8-3-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 274.35981,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6651-4-2-1-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 197.27974,841.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6653-3-5-9-8-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 238.26606,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6655-3-9-0-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 256.31294,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6657-6-2-8-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 279.23774,841.39758 11.51368,24.65332 -3.26661,0 -11.51367,-24.65332 3.2666,0 z" />
+        <path
+           id="path6713-3-1-6-8-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 215.32661,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6715-8-0-4-2-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 251.42036,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6717-6-4-02-4-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 287.51411,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6771-4-0-9-4-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 184.12544,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6773-4-2-8-7-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 197.27974,916.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6775-4-2-5-7-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 233.37349,916.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6777-5-2-1-2-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 256.31294,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6779-0-1-1-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#cb4b16;fill-opacity:1"
+           d="m 269.46724,916.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+      </g>
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6891-1-1-7-9-4"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6597-2-4-4-8-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 382.64106,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6599-9-7-3-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 400.68794,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6601-3-6-35-6-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 418.73481,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6603-9-0-8-3-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 436.78169,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6605-7-6-8-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 472.87544,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6607-8-1-21-2-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 490.92231,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6609-4-9-6-1-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 508.96919,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6659-7-4-57-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 359.70161,841.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6661-2-3-6-0-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 400.68794,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6663-5-6-2-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 418.73481,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6665-2-2-7-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 443.81294,839.27356 4.14551,5.50781 -2.88575,0 -5.39062,-5.50781 4.13086,0 z" />
+        <path
+           id="path6667-9-7-2-6-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 472.87544,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6669-5-7-7-6-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 490.92231,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6671-3-2-2-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 513.84712,841.39758 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z" />
+        <path
+           id="path6719-7-4-3-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 341.65474,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6721-7-5-8-5-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 377.74849,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6723-2-8-2-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 413.84224,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6725-8-4-3-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 449.93599,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6727-3-9-4-5-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 486.02974,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6729-7-6-7-9-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 522.12349,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6781-3-5-57-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 323.60786,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6783-0-1-8-5-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 346.54731,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6785-2-7-6-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 359.70161,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6787-1-5-49-4-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 395.79536,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6789-8-7-7-1-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 418.73481,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6791-6-0-15-6-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 431.88911,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6793-8-9-2-4-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 467.98286,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6795-2-1-4-0-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 490.92231,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6797-3-2-1-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#b58900;fill-opacity:1"
+           d="m 504.07661,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+      </g>
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6947-8-3-0-6-5"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#268bd2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6619-3-5-2-0-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 725.53169,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6621-6-6-3-8-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 743.57856,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6623-9-0-3-6-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 761.62544,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6625-7-3-0-6-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 779.67231,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6681-5-6-01-1-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 702.59224,841.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6683-6-7-8-7-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 725.53169,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6685-7-4-4-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 774.77974,841.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6739-9-7-8-2-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 720.63911,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6741-6-3-11-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 756.73286,878.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6743-9-9-1-0-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 779.67231,905.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6809-6-3-6-9-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 702.59224,916.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6811-8-5-0-2-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 725.53169,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6813-9-7-5-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 743.57856,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6815-2-2-2-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 761.62544,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6817-1-9-6-6-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#268bd2;fill-opacity:1"
+           d="m 774.77974,916.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+      </g>
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6964-8-3-4-7-2"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#6c71c4;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6627-1-9-7-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 833.81294,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6629-5-8-32-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 851.85981,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6631-6-9-59-8-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 869.90669,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6633-7-8-3-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 887.95356,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6635-2-4-2-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 906.00044,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6687-9-5-0-0-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 810.87349,841.39758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6689-9-2-9-4-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 851.85981,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6691-4-3-64-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 869.90669,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6693-2-2-2-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 887.95356,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6695-7-9-7-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 901.10786,841.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6745-3-3-8-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 793.19282,878.00403 q -1.93359,3.50097 -2.87109,6.78222 -0.9375,3.28125 -0.9375,6.5625 0,3.25196 0.9375,6.5625 0.9375,3.2959 2.87109,6.81153 l -3.33984,0 q -2.3291,-3.38379 -3.45703,-6.66504 -1.12793,-3.2959 -1.12793,-6.70899 0,-3.39843 1.12793,-6.69433 1.14257,-3.31055 3.45703,-6.65039 l 3.33984,0 z" />
+        <path
+           id="path6747-0-4-7-9-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 815.76606,905.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6749-2-3-0-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 833.81294,905.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6751-6-7-9-2-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 874.41841,878.00403 3.33984,0 q 2.31445,3.33984 3.44238,6.65039 1.14258,3.2959 1.14258,6.69433 0,3.41309 -1.12793,6.70899 -1.12793,3.28125 -3.45703,6.66504 l -3.33984,0 q 1.93359,-3.51563 2.87109,-6.81153 0.9375,-3.31054 0.9375,-6.5625 0,-3.28125 -0.9375,-6.5625 -0.9375,-3.28125 -2.87109,-6.78222 z" />
+        <path
+           id="path6819-0-7-8-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 797.71919,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6821-7-8-3-8-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 815.76606,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6823-4-5-7-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 833.81294,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6825-2-9-2-3-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 851.85981,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6827-6-1-2-7-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#6c71c4;fill-opacity:1"
+           d="m 865.01411,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+      </g>
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6985-2-4-0-3-8"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d33682;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6579-0-6-6-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 942.09419,792.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6581-3-6-59-9-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 960.14106,792.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6637-3-1-8-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 919.15474,803.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6639-6-0-2-2-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 955.24849,803.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6641-3-7-1-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 978.18794,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6697-0-7-4-7-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 942.09419,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6699-5-7-7-4-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 960.14106,867.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6701-4-6-0-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 983.06587,841.39758 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z" />
+        <path
+           id="path6753-4-9-0-4-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 919.15474,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6755-8-7-1-2-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 955.24849,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6757-2-9-6-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 991.34224,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6829-5-1-95-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 887.95356,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6831-4-5-0-0-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 901.10786,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6833-0-1-0-6-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 937.20161,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6835-4-9-4-8-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 960.14106,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6837-8-1-9-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#d33682;fill-opacity:1"
+           d="m 973.29536,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+      </g>
+      <g
+         transform="translate(-0.81494899,-186.24046)"
+         id="g6922-1-6-6-6-0"
+         style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#859900;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           id="path6611-3-3-6-5-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 563.10981,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6613-5-4-67-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 581.15669,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6615-3-0-5-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 635.29731,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6617-3-5-8-3-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 653.34419,830.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6673-8-0-6-4-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 540.17036,841.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6675-6-4-3-4-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 576.26411,841.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6677-7-8-2-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 612.35786,841.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6679-6-7-5-8-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 648.45161,841.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6731-8-1-8-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 558.21724,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6733-4-6-6-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 581.15669,905.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6735-3-3-8-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 594.31099,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6737-0-1-4-7-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 630.40474,878.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+        <path
+           id="path6799-1-9-39-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 513.84712,916.39758 11.51367,24.65332 -3.2666,0 -11.51367,-24.65332 3.2666,0 z" />
+        <path
+           id="path6801-5-7-2-4-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 545.06294,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6803-1-9-52-0-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 563.10981,942.55969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6805-4-7-84-8-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 569.84809,932.89172 4.58497,0 0,3.96973 -2.8711,5.61035 -3.16406,0 1.45019,-5.61035 0,-3.96973 z" />
+        <path
+           id="path6807-8-0-2-4-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 612.35786,916.39758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6839-7-1-8-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 504.07661,953.89758 3.23731,0 -11.51368,24.65332 -3.2373,0 11.51367,-24.65332 z" />
+        <path
+           id="path6841-9-5-6-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 527.01606,980.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6843-0-7-0-3-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 545.06294,980.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6845-4-9-0-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 563.10981,980.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6847-5-1-13-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 581.15669,980.05969 0,2.78321 -18.06152,0 0,-2.78321 18.06152,0 z" />
+        <path
+           id="path6849-4-9-2-7-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#859900;fill-opacity:1"
+           d="m 594.31099,953.89758 3.2373,0 -11.51367,24.65332 -3.23731,0 11.51368,-24.65332 z" />
+      </g>
+    </g>
+  </g>
+  <text
+     id="text3414-2-6"
+     y="1014.8218"
+     x="55.791279"
      style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       id="tspan4902"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="286.00003"
-       x="626.3916">    __               __           </tspan><tspan
-       id="tspan4904"
+       y="1014.8218"
+       x="55.791279"
+       id="tspan3416-6">         __                                     __</tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="323.50003"
-       x="626.3916">   / /_  ____  _____/ /____  _____</tspan><tspan
-       id="tspan4906"
+       id="tspan3418-1"
+       y="1052.3218"
+       x="55.791279">  ____  / /_     ____ ___  __  __   ____  _____/ /_</tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="361.00003"
-       x="626.3916">  / __ \/ __ `/ ___/ __/ _ \/ ___/</tspan><tspan
-       id="tspan4908"
+       id="tspan3420-3"
+       y="1089.8218"
+       x="55.791279"> / __ \/ __ \   / __ `__ \/ / / /  /_  / / ___/ __ \</tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       y="398.50003"
-       x="626.3916"> / /_/ / /_/ (__  ) /_/  __/ /    </tspan><tspan
+       id="tspan3422-9"
+       y="1127.3218"
+       x="55.791279">/ /_/ / / / /  / / / / / / /_/ /    / /_(__  ) / / /</tspan><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
-       id="tspan3428-1-3-7"
-       y="436.00003"
-       x="626.3916">/_.___/\__,_/____/\__/\___/_/     </tspan></text>
-  <rect
-     y="-7.9003903e-06"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#002b36;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="29.999992"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-0"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="59.999992"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-1"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#586e75;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="89.999992"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-0-1"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#657b83;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="119.99999"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-1-8"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#839496;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="149.99995"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#93a1a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="179.99995"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-1-8-2"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#eee8d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="209.99989"
-     x="0"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0-9"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="239.99989"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-1-8-3"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="269.99991"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0-1"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="299.99991"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-1-8-2-0"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="329.99985"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0-9-7"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d33682;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="359.99985"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0-1-0"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6c71c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="389.99985"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-1-8-2-0-0"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="419.99979"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0-9-7-8"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-  <rect
-     y="449.99979"
-     x="1.9073486e-06"
-     height="30"
-     width="30"
-     id="rect5576-0-1-0-9-7-8-3"
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#859900;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+       id="tspan3424-5"
+       y="1164.8218"
+       x="55.791279">\____/_/ /_/  /_/ /_/ /_/\__, /    /___/____/_/ /_/</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:125%;font-family:'DejaVu Sans Mono for Powerline';-inkscape-font-specification:'DejaVu Sans Mono for Powerline Bold';baseline-shift:baseline;fill:#586e75;fill-opacity:1"
+       id="tspan3426-0-6"
+       y="1202.3218"
+       x="55.791279">                        /____/</tspan><tspan
+       id="tspan3428-1-5"
+       y="1239.8218"
+       x="55.791279" /></text>
 </svg>

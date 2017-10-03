@@ -1,7 +1,8 @@
-# IPster
+# IPython Agnoster theme
 
-A hipster theme for the IPython REPL.
-The prompt is based on Agnoster, therefore IPster (IPython + Agnoster).
+IPython Agnoster (aka IPster) is a hipster theme for the IPython REPL.
+It was designed to provide a consistent terminal experience around my
+[Agnoster Zsh theme](https://github.com/i5ar/agnoster-zsh-theme) fork.
 
 ![Logo](images/ipster-logo.png)
 
@@ -16,10 +17,17 @@ For Mac users, I highly recommend iTerm 2 + Solarized Dark.
 
 > With some extra hassle this theme works on Windows too.
 
+Meet all the family:
+
+- [Agnoster Zsh theme](https://github.com/i5ar/agnoster-zsh-theme) fork;
+- Agnoster Zsh theme [Vi mode plugin](https://gist.github.com/i5ar/d7c4a595679dfb0c4cbae14e21f45454);
+- [Agnoster Vim statusline](https://github.com/i5ar/vim-agnoster-statusline) (aka Vister);
+- [Agnoster Tmux theme](https://github.com/i5ar/tmux-colors-solarized) fork;
+
 
 ## Screenshot
 
-![Terminal](images/ipster-terminal.png)
+![Terminal](images/ipster-term.png)
 
 
 ## Installation
@@ -69,9 +77,9 @@ For ``IPython>=0.11,<5.0`` only add the following lines (deprecated):
     style_overrides_linux = {
         Token.IPsterPromptVirtualenv: 'bg:#859900 #002b36',
         Token.IPsterPowerlinePromptVirtualenv: 'bg:#073642 #859900',
-        Token.Prompt: 'bg:#073642 #657b83',
+        Token.Prompt: 'bg:#073642 #93a1a1',
         Token.PromptNum: 'bg:#073642 #859900 bold',
-        Token.OutPrompt: 'bg:#073642 #657b83',
+        Token.OutPrompt: 'bg:#073642 #93a1a1',
         Token.OutPromptNum: 'bg:#073642 #dc322f bold',
         Token.IPsterPowerlinePrompt: '#073642',
         Token.IPsterPromptSpace: '#839496',

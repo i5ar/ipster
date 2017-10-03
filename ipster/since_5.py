@@ -1,3 +1,14 @@
+"""IPster style and prompt.
+
+Configuration required::
+
+    ## Use 24bit colors instead of 256 colors in prompt highlighting.
+    c.TerminalInteractiveShell.true_color = True
+
+    ## Set the color scheme (NoColor, Neutral, Linux, or LightBG).
+    c.InteractiveShell.colors = 'Linux'
+
+"""
 from __future__ import (unicode_literals, absolute_import)
 
 import os
@@ -17,34 +28,6 @@ from pygments.token import (
 from IPython.terminal.prompts import Prompts
 
 
-'''
-## Use 24bit colors instead of 256 colors in prompt highlighting.
-c.TerminalInteractiveShell.true_color = True
-
-## Set the color scheme (NoColor, Neutral, Linux, or LightBG).
-c.InteractiveShell.colors = 'Linux'
-
-from pygments.token import Token
-
-# Define prompt colors
-# TODO: Define Solarized colorscheme
-style_overrides_linux = {
-    Token.IPsterPromptVirtualenv: 'bg:#859900 #002b36',
-    Token.IPsterPowerlinePromptVirtualenv: 'bg:#073642 #859900',
-    Token.Prompt: 'bg:#073642 #657b83',
-    Token.PromptNum: 'bg:#073642 #859900 bold',
-    Token.OutPrompt: 'bg:#073642 #657b83',
-    Token.OutPromptNum: 'bg:#073642 #dc322f bold',
-    Token.IPsterPowerlinePrompt: '#073642',
-    Token.IPsterPromptSpace: '#839496',
-}
-
-# Override prompt colors
-# TODO: Override NoColor, Neutral and LightBG prompt colors
-c.TerminalInteractiveShell.highlighting_style_overrides = style_overrides_linux
-'''
-
-
 class IPsterStyle(object):
     """Override prompt colors.
 
@@ -57,18 +40,21 @@ class IPsterStyle(object):
 
     """
 
+    # TODO: Define Solarized colorscheme
     style_overrides_linux = {
         Token.IPsterPromptVirtualenv: 'bg:#859900 #002b36',
         Token.IPsterPowerlinePromptVirtualenv: 'bg:#073642 #859900',
-        Token.Prompt: 'bg:#073642 #657b83',
+        Token.Prompt: 'bg:#073642 #93a1a1',
         Token.PromptNum: 'bg:#073642 #859900 bold',
-        Token.OutPrompt: 'bg:#073642 #657b83',
+        Token.OutPrompt: 'bg:#073642 #93a1a1',
         Token.OutPromptNum: 'bg:#073642 #dc322f bold',
         Token.IPsterPowerlinePrompt: '#073642',
-        Token.IPsterPromptSpace: '#839496',
+        Token.IPsterPromptSpace: '#839496',  # Use ``brcyan`` or ``brblue``?
     }
 
+    # TODO: Override NoColor, Neutral and LightBG prompt colors
     def overrides_linux(self):
+        """Override prompt colors."""
         return self.style_overrides_linux
 
 
