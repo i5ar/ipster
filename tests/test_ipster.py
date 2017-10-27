@@ -1,7 +1,6 @@
 from __future__ import (unicode_literals, absolute_import)
 
-from unittest import TestCase
-import types
+import unittest
 
 from IPython.terminal.prompts import Prompts
 
@@ -11,7 +10,7 @@ from ipster import since_5
 prompts = since_5.IPsterPrompts(Prompts)
 
 
-class TestIPster(TestCase):
+class TestIPster(unittest.TestCase):
     """IPster test case.
     Run test::
 

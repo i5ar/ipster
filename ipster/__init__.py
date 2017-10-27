@@ -11,7 +11,7 @@ A hipster theme for the IPython REPL.
 """
 
 __title__ = 'ipster'
-__version__ = "0.0.9"
+__version__ = "0.1.0"
 __author__ = "Pierpaolo Rasicci"
 __copyright__ = "Copyright (c) 2017 iSar"
 __license__ = "MIT"

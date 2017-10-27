@@ -33,7 +33,7 @@ setup(
     keywords="ipython agnoster",
     packages=['ipster'],
     # Convert Markdown to reStructuredtext
-    entry_points = {
+    entry_points={
         'console_scripts': ['convert-rst=ipster.command_line:main'],
     },
     # Use Environment Markers to install IPython for Python 2
