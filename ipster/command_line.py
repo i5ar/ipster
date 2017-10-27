@@ -1,4 +1,13 @@
 def main():
+    """Generate reStructuredText README from Markdown.
+    The ``main()`` function is also registered in the setup entry points.
+
+    Convertion example::
+
+        import ipster.command_line
+        ipster.command_line.main()
+
+    """
     readme_in = 'README.md'
     readme_out = 'README.rst'
     try:
