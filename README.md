@@ -1,7 +1,7 @@
 # IPython Agnoster theme
 
 IPython Agnoster (aka IPster) is a hipster theme for the IPython REPL.
-It was designed to provide a consistent terminal experience around my
+It was designed to provide a consistent terminal experience around
 [Agnoster Zsh theme](https://github.com/i5ar/agnoster-zsh-theme) fork.
 
 ![Logo](images/ipster-logo.png)

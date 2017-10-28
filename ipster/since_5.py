@@ -16,14 +16,17 @@ import sys
 
 from pygments.token import (
     Token,
-    Keyword,
-    Name,
-    Comment,
-    String,
-    Error,
-    Number,
-    Operator,
-    Generic)
+    # Keyword,
+    # Name,
+    # Comment,
+    # String,
+    # Error,
+    # Number,
+    # Operator,
+    # Generic
+)
+
+from prompt_toolkit.layout.utils import token_list_width
 
 from IPython.terminal.prompts import Prompts
 
@@ -82,9 +85,8 @@ class IPsterPrompts(Prompts):
             https://stackoverflow.com/questions/1871549/
 
         """
-        return (hasattr(sys, 'real_prefix') or
-            (hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix))
-
+        return (hasattr(sys, 'real_prefix') or (
+            hasattr(sys, 'base_prefix') and sys.base_prefix != sys.prefix))
 
     def add_segment(self, pt):
         """Add Virtual Environments segment if activated."""
@@ -94,7 +96,6 @@ class IPsterPrompts(Prompts):
             # prompt_ipster_main = pt
             prompt_ipster_main = [(Token.Prompt, ' '), ] + pt
         return prompt_ipster_main
-
 
     def in_prompt_tokens(self, cli=None):
         # return [(Token, os.getcwd()), (Token.Prompt, ' >>>')]

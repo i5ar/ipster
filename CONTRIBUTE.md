@@ -30,7 +30,7 @@ Remove all files manually:
 
 Upload to PyPi:
 
-    python setup.py upload
+    python setup.py sdist upload
 You may need a `.pypirc` file in your home directory:
 
     [distutils]
