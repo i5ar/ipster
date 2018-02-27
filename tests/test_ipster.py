@@ -19,7 +19,6 @@ class TestIPster(unittest.TestCase):
     """
     def test_type(self):
         """Test type."""
-        # TODO: Use Type Hints with Mypy in Python 3.6
         # Same as ``assert isinstance(prompts.is_venv(), bool)``
         self.assertIs(type(prompts.is_venv()), bool)
 

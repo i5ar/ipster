@@ -54,6 +54,9 @@ Edit your configuration file
     ##
     c.InteractiveShell.separate_in = ''
 
+NOTE: You can also use IPster inside a virtual environment just copying your
+configuration file to your current virtual environment directory.
+
 For ``IPython>=5.0`` only add the following lines:
 
 ::
@@ -73,11 +76,11 @@ For ``IPython>=0.11,<5.0`` only add the following lines (deprecated):
 
     # Define prompt colors
     style_overrides_linux = {
-        Token.IPsterPromptVirtualenv: 'bg:#859900 #002b36',
+        Token.IPsterPromptVirtualenv: 'bg:#859900 #073642',
         Token.IPsterPowerlinePromptVirtualenv: 'bg:#073642 #859900',
-        Token.Prompt: 'bg:#073642 #93a1a1',
+        Token.Prompt: 'bg:#073642 #839496',
         Token.PromptNum: 'bg:#073642 #859900 bold',
-        Token.OutPrompt: 'bg:#073642 #93a1a1',
+        Token.OutPrompt: 'bg:#073642 #839496',
         Token.OutPromptNum: 'bg:#073642 #dc322f bold',
         Token.IPsterPowerlinePrompt: '#073642',
         Token.IPsterPromptSpace: '#839496',

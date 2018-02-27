@@ -45,14 +45,14 @@ class IPsterStyle(object):
 
     # TODO: Define Solarized colorscheme
     style_overrides_linux = {
-        Token.IPsterPromptVirtualenv: 'bg:#859900 #002b36',
+        Token.IPsterPromptVirtualenv: 'bg:#859900 #073642',
         Token.IPsterPowerlinePromptVirtualenv: 'bg:#073642 #859900',
-        Token.Prompt: 'bg:#073642 #93a1a1',
+        Token.Prompt: 'bg:#073642 #839496',
         Token.PromptNum: 'bg:#073642 #859900 bold',
-        Token.OutPrompt: 'bg:#073642 #93a1a1',
+        Token.OutPrompt: 'bg:#073642 #839496',
         Token.OutPromptNum: 'bg:#073642 #dc322f bold',
         Token.IPsterPowerlinePrompt: '#073642',
-        Token.IPsterPromptSpace: '#839496',  # Use ``brcyan`` or ``brblue``?
+        Token.IPsterPromptSpace: '#839496',
     }
 
     # TODO: Override NoColor, Neutral and LightBG prompt colors
