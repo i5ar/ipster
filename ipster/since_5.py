@@ -1,3 +1,4 @@
+# fmt: off
 """IPster style and prompt.
 
 Configuration required::
@@ -26,7 +27,7 @@ from pygments.token import (
     # Generic
 )
 
-from prompt_toolkit.layout.utils import token_list_width
+from prompt_toolkit.formatted_text import fragment_list_width
 
 from IPython.terminal.prompts import Prompts
 
@@ -109,7 +110,7 @@ class IPsterPrompts(Prompts):
         return self.add_segment(prompt_in)
 
     def _width(self):
-        return token_list_width(self.in_prompt_tokens())
+        return fragment_list_width(self.in_prompt_tokens())
 
     def continuation_prompt_tokens(self, cli=None, width=None):
         if width is None:
@@ -128,3 +129,4 @@ class IPsterPrompts(Prompts):
             (Token.IPsterPromptSpace, ' ')
         ]
         return self.add_segment(prompt_out)
+# fmt: on
